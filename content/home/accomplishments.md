@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
+  date_end: "2019-05-01"
+  date_start: "2018-08-01"
+  organization: NC State University
+  organization_url: https://grad.ncsu.edu/students/fellowships-and-grants/opportunities/university-graduate-fellowships/
+  title: University Graduate Fellowship
+  url: ""
+- certificate_url: ""
   date_end: "2016-05-01"
   date_start: "2015-08-01"
   description: ""
@@ -31,12 +38,6 @@ item:
   organization_url: https://www.qaddumi.org/
   title: Hani Qaddumi BSc Scholarship
   url: ""
-- certificate_url: ""
-  date_end: "2019-05-01"
-  date_start: "2018-08-01"
-  organization: NC State University
-  organization_url: https://grad.ncsu.edu/students/fellowships-and-grants/opportunities/university-graduate-fellowships/
-  title: University Graduate Fellowship
-  url: ""
+
 ---
 
