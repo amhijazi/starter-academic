@@ -12,8 +12,8 @@ image:
   placement: 1
   preview_only: false
 ---
-Welcome! In this blog post, I have collected some of the resources that I have found/think might be helpful to me as a graduate student in OR/MS/ISE field. These resources include, podcasts, tutorials, papers and articles, online courses and books. Thanks to those who shared these resources and those who created the content. 
-I hope you can benefit from some of them. Feel free to share with you colleagues!
+In this blog post, I collected some of the resources that I have found/think might be helpful to me as a graduate student in OR/MS/ISE field. These resources include podcasts, tutorials, papers and articles, online courses and books. Thanks to those who created and shared these resources. 
+I hope you can benefit from some of them. Feel free to share with your colleagues!
 
 -    [PhDForum Online Study Room](https://www.thephdforum.com/study-room)
 -    [OpenAcademics Resources](https://www.oacommunity.org/resources)
