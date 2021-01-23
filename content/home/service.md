@@ -22,7 +22,7 @@ design:
   # Use a dark navy background with light text.
 
 ---
-- [INFORMS](https://www.informs.org/)
+- [Institute for Operations Research and the Management Sciences (INFORMS)](https://www.informs.org/)
     * Co-Lead Editor of  [ORMS Tomorrow Student Magazine](https://www.informs.org/Publications/OR-MS-Tomorrow) [Apr 2020 - Present]
     * Student Representative - Chapters and Fora Committee [Feb 2020 - Present]
     * Student Liaison - Health Applications Society [Jan 2020 - Dec 2020]
@@ -35,8 +35,11 @@ design:
     * Student Rep - NCSU Pursuing Operational Excellence Task Force [Dec 2019 - Jul 2020]
     * Department of Industrial & Systems Engineering Representative - Graduate Student Association [Sep 2019 - May 2021]
     * Research Recognition Committee Member - Graduate Student Association [Sep 2019 - May 2020]
+
+- [Institute of Industrial and Systems Engineers (IISE)](https://www.iise.org/Home/)
+    * Founder and President of IISE-Islamic University Student Chapter [Aug 2013 - May 2015]
     
-    
-    
+- [Arab Innovation Network (AIN)](https://arabinnovation.net/ain/)
+  * Student Ambassador [Jun 2013 - Jun 2015]
 
         
